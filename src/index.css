@@ -1,0 +1,49 @@
+body{
+    background-color:whitesmoke;
+}
+
+.header-text , .heading {
+    background-color: #f0faff;
+    color: aqua;
+}
+.header-text{
+    background-color: whitesmoke;
+    border-radius: 10px !important ;
+    padding: 10px;
+    color: black;
+    font-weight:bold;
+
+}
+
+.footer-text{
+    color: aqua;
+    background-color: rgb(25, 45, 60,1);
+    max-width: 100%;
+    position: fixed;
+    bottom: 0;
+}
+.products{
+    overflow: hidden;
+    margin-bottom: 100px;
+}
+.card{
+width: 800px;
+background-color: #C7DBF6;
+color: rgb(31, 59, 21);
+padding: 10px;
+border-radius: 10px;
+}
+.image{
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+}
+.btn-minus{
+    border-radius: 10px !important;
+}
+.btn-success{
+    border-radius: 10px !important;
+}
+.btn{
+    border-radius: 10px;
+}
